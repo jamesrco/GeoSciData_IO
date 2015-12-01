@@ -1,0 +1,142 @@
+﻿Application: Tecan i-control				Tecan i-control , 1.9.17.0
+Device: infinite 200Pro				Serial number: 1202007079				Serial number of connected stacker:
+Firmware: V_3.22_12/10_Infinite (Dec 14 2010/13.07.14)				MAI, V_3.22_12/10_Infinite (Dec 14 2010/13.07.14)
+
+Date:	1/9/2014
+Time:	'3:42:12 AM
+
+
+System				LMG021686-L	
+User				LMG021686-L\science	
+Plate				Corning 96 Round Bottom Transparent Polystyrol  [COS96rt.pdfx]	
+Plate-ID (Stacker)
+
+
+Label: 4-MUF-butyrate
+Mode				Fluorescence Top Reading	
+Excitation Wavelength				360	nm
+Emission Wavelength				465	nm
+Excitation Bandwidth				35	nm
+Emission Bandwidth				35	nm
+Gain				35	Manual
+Number of Flashes				25	
+Integration Time				20	µs
+Lag Time				0	µs
+Settle Time				0	ms
+Mirror (Automatic)				50% Mirror	
+Part of Plate				A1-H3	
+Start Time:	'1/9/2014 3:42:12 AM
+
+	Temperature: 23.1 °C
+<>	1	2	3
+A	1221	1463	1542
+B	1387	1416	1380
+C	1680	1419	1603
+D	1146	1284	1298
+E	975	1150	1118
+F	1105	1015	1125
+G	941	1004	1125
+H	952	1257	1061
+
+
+
+End Time:	'1/9/2014 3:42:39 AM
+
+
+
+
+Label: 4-MUF-alpha-D-glucopyranoside
+Mode				Fluorescence Top Reading	
+Excitation Wavelength				360	nm
+Emission Wavelength				465	nm
+Excitation Bandwidth				35	nm
+Emission Bandwidth				35	nm
+Gain				35	Manual
+Number of Flashes				25	
+Integration Time				20	µs
+Lag Time				0	µs
+Settle Time				0	ms
+Mirror (Automatic)				50% Mirror	
+Part of Plate				A4-H6	
+Start Time:	'1/9/2014 3:42:45 AM
+
+	Temperature: 23.1 °C
+<>	4	5	6
+A	359	371	387
+B	381	389	377
+C	377	375	374
+D	386	375	381
+E	381	377	371
+F	391	376	387
+G	393	384	391
+H	384	392	402
+
+
+
+End Time:	'1/9/2014 3:43:11 AM
+
+
+
+
+Label: 4-MUF-PO4
+Mode				Fluorescence Top Reading	
+Excitation Wavelength				360	nm
+Emission Wavelength				465	nm
+Excitation Bandwidth				35	nm
+Emission Bandwidth				35	nm
+Gain				35	Manual
+Number of Flashes				25	
+Integration Time				20	µs
+Lag Time				0	µs
+Settle Time				0	ms
+Mirror (Automatic)				50% Mirror	
+Part of Plate				A7-H9	
+Start Time:	'1/9/2014 3:43:17 AM
+
+	Temperature: 23.3 °C
+<>	7	8	9
+A	903	693	884
+B	545	379	401
+C	444	421	365
+D	473	429	406
+E	474	548	476
+F	686	462	471
+G	616	602	447
+H	922	543	555
+
+
+
+End Time:	'1/9/2014 3:43:43 AM
+
+
+
+
+Label: AMC-leucine
+Mode				Fluorescence Top Reading	
+Excitation Wavelength				380	nm
+Emission Wavelength				430	nm
+Excitation Bandwidth				20	nm
+Emission Bandwidth				35	nm
+Gain				40	Manual
+Number of Flashes				25	
+Integration Time				20	µs
+Lag Time				0	µs
+Settle Time				0	ms
+Mirror (Automatic)				50% Mirror	
+Part of Plate				A10-H12	
+Start Time:	'1/9/2014 3:43:49 AM
+
+	Temperature: 22.9 °C
+<>	10	11	12
+A	328	295	254
+B	313	281	428
+C	292	289	271
+D	289	284	279
+E	304	283	267
+F	292	286	269
+G	316	279	289
+H	282	288	281
+
+
+
+End Time:	'1/9/2014 3:44:15 AM
